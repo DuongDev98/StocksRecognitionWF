@@ -1,0 +1,11 @@
+F:\THUANVIETSOFT\StocksRecognitionWF\StocksRecognitionWF\bin\Debug\StocksRecognitionWF.exe.config
+F:\THUANVIETSOFT\StocksRecognitionWF\StocksRecognitionWF\bin\Debug\StocksRecognitionWF.exe
+F:\THUANVIETSOFT\StocksRecognitionWF\StocksRecognitionWF\bin\Debug\StocksRecognitionWF.pdb
+F:\THUANVIETSOFT\StocksRecognitionWF\StocksRecognitionWF\obj\Debug\StocksRecognitionWF.csproj.AssemblyReference.cache
+F:\THUANVIETSOFT\StocksRecognitionWF\StocksRecognitionWF\obj\Debug\StocksRecognitionWF.csproj.SuggestedBindingRedirects.cache
+F:\THUANVIETSOFT\StocksRecognitionWF\StocksRecognitionWF\obj\Debug\StocksRecognitionWF.Properties.Resources.resources
+F:\THUANVIETSOFT\StocksRecognitionWF\StocksRecognitionWF\obj\Debug\StocksRecognitionWF.csproj.GenerateResource.cache
+F:\THUANVIETSOFT\StocksRecognitionWF\StocksRecognitionWF\obj\Debug\StocksRecognitionWF.csproj.CoreCompileInputs.cache
+F:\THUANVIETSOFT\StocksRecognitionWF\StocksRecognitionWF\obj\Debug\StocksRecognitionWF.exe
+F:\THUANVIETSOFT\StocksRecognitionWF\StocksRecognitionWF\obj\Debug\StocksRecognitionWF.pdb
+F:\THUANVIETSOFT\StocksRecognitionWF\StocksRecognitionWF\obj\Debug\StocksRecognitionWF.Tester.resources
